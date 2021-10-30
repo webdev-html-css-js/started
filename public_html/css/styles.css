@@ -1,0 +1,15 @@
+body {
+    background-image: url("../img/wallpaper_html.jpg");
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+.boxModel {
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    border: dashed 2px #eb2a2a;
+    /* background-color:aquamarine; */
+    padding: 20px;
+}
