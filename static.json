@@ -2,8 +2,7 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "zer0bytejs",
-      "Access-Control-Allow-Origin": "*"
+      "X-Author": "htmlcss"
     }
   }
 }
